@@ -26,3 +26,5 @@ Check out the live version of the project here: https://sarvan-12.github.io/amaz
 ## License
 
 This project is open-source and available under the MIT License.
+
+**Note**: Currently, the project is available in desktop view. Mobile view support is coming soon.
