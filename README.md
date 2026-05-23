@@ -23,8 +23,3 @@ Check out the live version of the project here: https://sarvan-12.github.io/amaz
 1. Clone this repository:  https://github.com/Sarvan-12/amazon-clone
 2. Open the `index.html` file in a browser to view the project.
 
-## License
-
-This project is open-source and available under the MIT License.
-
-**Note**: Currently, the project is available in desktop view. Mobile view support is coming soon.

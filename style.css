@@ -24,7 +24,7 @@
     /* margin-left: 10px; */
 }
 .logo{
-    background-image: url("amazon.png");
+    background-image: url("assets/amazon.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -118,7 +118,7 @@ span{
 }
 /* hero section */
 .hero-sec{
-    background-image: url("hero-sec.gif");
+    background-image: url("assets/hero-sec.gif");
     height: 300px;
     background-size: cover;
     margin-top: 10px;
@@ -128,7 +128,7 @@ span{
     border-top-right-radius: 4px;
 }
 .hero-sec2{
-    background-image: url("hero-sec2.gif");
+    background-image: url("assets/hero-sec2.gif");
     height: 200px;
     background-size: cover;
     margin-bottom: 10px;
@@ -171,7 +171,7 @@ span{
     background-color: white;
 }
 .box1{
-    background-image: url("pro1.jpg");
+    background-image: url("assets/pro1.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -179,7 +179,7 @@ span{
     background-size: cover;
 }
 .box2{
-    background-image: url("pro2.jpg");
+    background-image: url("assets/pro2.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -187,7 +187,7 @@ span{
     background-size: cover;
 }
 .box3{
-    background-image: url("pro3.jpg");
+    background-image: url("assets/pro3.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -195,7 +195,7 @@ span{
     background-size: cover;
 }
 .box4{
-    background-image: url("pro4.jpg");
+    background-image: url("assets/pro4.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -203,7 +203,7 @@ span{
     background-size: cover; 
 }
 .box5{
-    background-image: url("pro5.jpg");
+    background-image: url("assets/pro5.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -230,39 +230,39 @@ span{
     color: black;
 }
 .boxx1{
-    background-image: url("sec2-1.jpg");
+    background-image: url("assets/sec2-1.jpg");
     height: 250px;
     width: 150px;
     margin-left: 50px;
     background-size: cover;
 }
 .boxx2{
-    background-image: url("sec2-2.jpg");
+    background-image: url("assets/sec2-2.jpg");
     height: 200px;
     width: 95%;
     background-size: cover;
 }
 .boxx3{
-    background-image: url("sec2-3.jpg");
+    background-image: url("assets/sec2-3.jpg");
     height: 250px;
     width: 160px;
     margin-left: 20px;
     background-size: cover;
 }
 .boxx4{
-    background-image: url("sec2-4.jpg");
+    background-image: url("assets/sec2-4.jpg");
     height: 250px;
     width: 200px;
     background-size: cover;
 }
 .boxx5{
-    background-image: url("sec2-5.jpg");
+    background-image: url("assets/sec2-5.jpg");
     height: 250px;
     width: 180px;
     background-size: cover;
 }
 .boxx6{
-    background-image: url("sec2-6.jpg");
+    background-image: url("assets/sec2-6.jpg");
     height: 250px;
     width: 200px;
     background-size: cover;
@@ -281,7 +281,7 @@ span{
 }
 /* shop-sec 3  */
 .box6{
-    background-image: url("box6.jpg");
+    background-image: url("assets/box6.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -289,7 +289,7 @@ span{
     background-size: cover;
 }
 .box7{
-    background-image: url("box7.jpg");
+    background-image: url("assets/box7.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -297,7 +297,7 @@ span{
     background-size: cover;
 }
 .box8{
-    background-image: url("box8.jpg");
+    background-image: url("assets/box8.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -305,7 +305,7 @@ span{
     background-size: cover;
 }
 .box9{
-    background-image: url("box9.jpg");
+    background-image: url("assets/box9.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -313,7 +313,7 @@ span{
     background-size: cover; 
 }
 .box10{
-    background-image: url("box10.jpg");
+    background-image: url("assets/box10.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -322,7 +322,7 @@ span{
 }
 /* shop sec 4  */
 .box11{
-    background-image: url("box11.jpg");
+    background-image: url("assets/box11.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -330,7 +330,7 @@ span{
     background-size: cover;
 }
 .box12{
-    background-image: url("box12.jpg");
+    background-image: url("assets/box12.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -338,7 +338,7 @@ span{
     background-size: cover;
 }
 .box13{
-    background-image: url("box13.jpg");
+    background-image: url("assets/box13.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -346,7 +346,7 @@ span{
     background-size: cover;
 }
 .box14{
-    background-image: url("box14.jpg");
+    background-image: url("assets/box14.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -354,7 +354,7 @@ span{
     background-size: cover;
 }
 .box15{
-    background-image: url("box15.jpg");
+    background-image: url("assets/box15.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -362,7 +362,7 @@ span{
     background-size: cover;
 }
 .box16{
-    background-image: url("box16.jpg");
+    background-image: url("assets/box16.jpg");
     height: 200px;
     width: 80%;
     margin-top: 10px;
@@ -404,7 +404,7 @@ ul a{
     align-items: center;
 }
 .logo1{
-    background-image: url("amazon2.png");
+    background-image: url("assets/amazon2.png");
     background-size: cover;
     height: 50px;
     width: 120px;
